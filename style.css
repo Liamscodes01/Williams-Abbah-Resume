@@ -1,0 +1,15 @@
+header{
+    background-color: hwb(78 70% 8%);
+    text-align: center;
+    border-radius: 17px;
+    border: solid;
+
+}
+#ash{
+    color:  hwb(0 0% 100%);
+    border: solid;
+    background-color: hwb(78 70% 8%);
+}
+img{
+    border-radius: 50px;
+}
